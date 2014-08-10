@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blogging with GitHub Pages, Jekyll and Poole
+summary: Github offers free hosting for personal and project sites called GitHub Pages. This is a simple overview of how I setup my GitHub Pages site using Jekyll and Poole. 
 ---
 
 As my first post I have to give props to everyone at GitHub for creating [GitHub Pages](https://pages.github.com/) which makes a hosting a blog or project site ridiculously easy. Especially if you're already a GitHub user. 
