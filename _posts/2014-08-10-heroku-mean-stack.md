@@ -6,7 +6,7 @@ summary: Getting an application running in Heroku is dead easy and their docs ar
 
 The MongoHQ and MongoLabs add ons are free but they do require [account verification](https://devcenter.heroku.com/articles/account-verification) which means inputing a credit card.  I used a Visa gift card to get past the validation process.
 
-Below are the commands I used to load my app.
+Below are the commands I used to load my [app](http://draw-string.herokuapp.com/#/). Go check it out, it's a fun little drawing app using ```fabric.js```.
 
 ```bash
 git clone git://github.com/myrepo/my-app.git

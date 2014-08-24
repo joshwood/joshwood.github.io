@@ -32,27 +32,3 @@ Next we'll need to actually use data from the model and introduce ```save``` and
 The last bit of improvement will be to allow the user to simply hit the enter key to commit the changes. For that, I am adding another directive called ng-enter. It captures the ```keydown``` and ```keypress``` events looking for the enter key. It will call its function param upon hearing the enter key ```ng-enter="save()"```. I completely ripped off this directive and have notated it in the source. It is a wonderful demonstration of how directives should be used.
 
 <iframe width="100%" height="350" src="http://jsfiddle.net/joshwood/hdvz7hpf/6/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
